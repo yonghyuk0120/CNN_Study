@@ -16,7 +16,7 @@
 
 
 ## CNN
-TF([colab](https://colab.research.google.com/drive/18jRNx3mYSbOEfgGhj-_0V-8X5dTIYsMJ?usp=sharing))
+
 * AlexNet [TensorFlow](https://github.com/yonghyuk0120/CNN_Study/blob/master/model/AlexNet(TF).ipynb), [Colab에서 보기](https://colab.research.google.com/drive/18jRNx3mYSbOEfgGhj-_0V-8X5dTIYsMJ?usp=sharing)
 * VGGNet [TensorFlow](https://github.com/yonghyuk0120/CNN_Study/blob/master/model/VGGNet(TF).ipynb), [Colab에서 보기](https://colab.research.google.com/drive/1PCfNuOx3_8BS_HpzLrbl-ZSOPl0lnw5M?usp=sharing)
 * VGGNet [PyTorch](https://github.com/yonghyuk0120/CNN_Study/blob/master/model/VGG(torch).ipynb), [Colab에서 보기](https://colab.research.google.com/drive/1pH3p9JsS0SBrt4EiPRzcsSAPr_Y5766_?usp=sharing)
